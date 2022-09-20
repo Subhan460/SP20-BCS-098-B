@@ -1,0 +1,66 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>My Personal CV</title>
+</head>
+<body>
+    <h1>
+        Profile
+    </h1>
+    <p>
+    Lorem ipsum dolor sit amet consectetur adipisicing elit. <br/>
+    Consectetur aliquam exercitationem ea fugiat, necessitatibus <br/>
+    assumenda deleniti nesciunt consequuntur commodi soluta quidem et <br/> 
+    ut iusto temporibus magni quod doloribus nihil voluptas.
+
+    </p>
+    <img src="CV Pic.jpg" alt="">
+    <h1>
+        Professional Title
+    </h1>
+    <h2>
+       <b>Richard Anderson</b> 
+    </h2>
+
+    <h2>
+        <b>CONTACT :</b>
+    </h2>
+    <ul>
+        <li>House Number 123, Sector 3X2 , Street Number 5, Muslim Colony, Pakistan</li>
+        <li>+92-3346082557</li>
+        <li>sp20-bcs-098@cuilahore.edu.pk</li>
+        <li><a href="https://www.facebook.com/login/">Facebook</a></li>
+    </ul>
+    <h2>
+        <B>EXPERTISE :</B>
+    </h2>
+    <ul>
+        <li> <i>Game Developer</i></li>
+        <li> <i>Web Developer</i> </li>
+        <li> <i>Content Writer</i> </li>
+        <li> <i>Word Press</i> </li>
+        <li> <i>Data Science Expert</i> </li>
+    </ul>
+    <h2> <b>EDUCATION</b></h2>
+    
+    <ul>
+        <li><i>I have done my matriculation for <b>XYZ</b> School with A+ Grade in <b>2017</b>.</i></li>
+        <li><i>I have done my intermediate from <B>XYZ school</B>  with A grade in <b>2019</b>.</i></li>
+        <li><i>I have done my Gradustaion from <B>XYZ univeristy</B> with 2.7 CGPA in <b>2023</b>.</i></li>
+    </ul>
+    <h2>
+        WORK EXPERIENCE
+    </h2>
+    <ul>
+        <li><i>I have worked as a freelancer of <B>Content Writer</B> in Fiver and got 4.9 rating in atleast 100+ orders.</i></li>
+        <li><i>I also worked as a <b>Web Developer</b> in Fiver.</i></li>
+        <li><i>I have 2 years work experience of <b>Game Developer</b> in <B>Arfa Technology Park</B>.</i></li>
+        <li>I have worked as a co-manager in <b>i2cinc</b>.</li>
+        <li>Presently i am working in <b>AMAZON</b> as a SEO Engineer</li>
+    </ul>
+</body>
+</html>
